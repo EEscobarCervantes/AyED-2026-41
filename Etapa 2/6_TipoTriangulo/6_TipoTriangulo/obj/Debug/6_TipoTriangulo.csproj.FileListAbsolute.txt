@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\6_TipoTriangulo\6_TipoTriangulo\bin\Debug\6_TipoTriangulo.exe.config
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\6_TipoTriangulo\6_TipoTriangulo\bin\Debug\6_TipoTriangulo.exe
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\6_TipoTriangulo\6_TipoTriangulo\bin\Debug\6_TipoTriangulo.pdb
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\6_TipoTriangulo\6_TipoTriangulo\obj\Debug\6_TipoTriangulo.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\6_TipoTriangulo\6_TipoTriangulo\obj\Debug\6_TipoTriangulo.exe
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\6_TipoTriangulo\6_TipoTriangulo\obj\Debug\6_TipoTriangulo.pdb

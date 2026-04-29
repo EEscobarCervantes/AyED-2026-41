@@ -1,0 +1,5 @@
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa1\17_AreaTriangulo\17_AreaTriangulo\bin\Debug\17_AreaTriangulo.exe.config
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa1\17_AreaTriangulo\17_AreaTriangulo\bin\Debug\17_AreaTriangulo.exe
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa1\17_AreaTriangulo\17_AreaTriangulo\bin\Debug\17_AreaTriangulo.pdb
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa1\17_AreaTriangulo\17_AreaTriangulo\obj\Debug\17_AreaTriangulo.exe
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa1\17_AreaTriangulo\17_AreaTriangulo\obj\Debug\17_AreaTriangulo.pdb

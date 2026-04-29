@@ -1,0 +1,5 @@
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\10_Cumplidos\10_Cumplidos\bin\Debug\10_Cumplidos.exe.config
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\10_Cumplidos\10_Cumplidos\bin\Debug\10_Cumplidos.exe
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\10_Cumplidos\10_Cumplidos\bin\Debug\10_Cumplidos.pdb
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\10_Cumplidos\10_Cumplidos\obj\Debug\10_Cumplidos.exe
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\10_Cumplidos\10_Cumplidos\obj\Debug\10_Cumplidos.pdb

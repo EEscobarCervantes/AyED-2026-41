@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\su nombre\su nombre\bin\Debug\su nombre.exe.config
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\su nombre\su nombre\bin\Debug\su nombre.exe
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\su nombre\su nombre\bin\Debug\su nombre.pdb
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\su nombre\su nombre\obj\Debug\su nombre.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\su nombre\su nombre\obj\Debug\su nombre.exe
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\su nombre\su nombre\obj\Debug\su nombre.pdb

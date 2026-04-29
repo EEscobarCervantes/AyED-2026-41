@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\8_AñoBisiesto\8_AñoBisiesto\bin\Debug\8_AñoBisiesto.exe.config
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\8_AñoBisiesto\8_AñoBisiesto\bin\Debug\8_AñoBisiesto.exe
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\8_AñoBisiesto\8_AñoBisiesto\bin\Debug\8_AñoBisiesto.pdb
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\8_AñoBisiesto\8_AñoBisiesto\obj\Debug\8_AñoBisiesto.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\8_AñoBisiesto\8_AñoBisiesto\obj\Debug\8_AñoBisiesto.exe
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\8_AñoBisiesto\8_AñoBisiesto\obj\Debug\8_AñoBisiesto.pdb

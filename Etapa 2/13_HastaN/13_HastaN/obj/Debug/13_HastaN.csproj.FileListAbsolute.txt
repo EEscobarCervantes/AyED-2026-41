@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\13_HastaN\13_HastaN\bin\Debug\13_HastaN.exe.config
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\13_HastaN\13_HastaN\bin\Debug\13_HastaN.exe
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\13_HastaN\13_HastaN\bin\Debug\13_HastaN.pdb
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\13_HastaN\13_HastaN\obj\Debug\13_HastaN.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\13_HastaN\13_HastaN\obj\Debug\13_HastaN.exe
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\13_HastaN\13_HastaN\obj\Debug\13_HastaN.pdb

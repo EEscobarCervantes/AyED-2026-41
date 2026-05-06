@@ -1,1 +1,6 @@
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\14_HastaQueSi\14_HastaQueSi\bin\Debug\14_HastaQueSi.exe.config
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\14_HastaQueSi\14_HastaQueSi\bin\Debug\14_HastaQueSi.exe
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\14_HastaQueSi\14_HastaQueSi\bin\Debug\14_HastaQueSi.pdb
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\14_HastaQueSi\14_HastaQueSi\obj\Debug\14_HastaQueSi.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\14_HastaQueSi\14_HastaQueSi\obj\Debug\14_HastaQueSi.exe
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\14_HastaQueSi\14_HastaQueSi\obj\Debug\14_HastaQueSi.pdb

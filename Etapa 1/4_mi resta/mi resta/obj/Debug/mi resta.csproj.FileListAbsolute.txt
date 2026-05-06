@@ -1,0 +1,5 @@
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\mi resta\mi resta\bin\Debug\mi resta.exe.config
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\mi resta\mi resta\bin\Debug\mi resta.exe
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\mi resta\mi resta\bin\Debug\mi resta.pdb
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\mi resta\mi resta\obj\Debug\mi resta.exe
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\mi resta\mi resta\obj\Debug\mi resta.pdb

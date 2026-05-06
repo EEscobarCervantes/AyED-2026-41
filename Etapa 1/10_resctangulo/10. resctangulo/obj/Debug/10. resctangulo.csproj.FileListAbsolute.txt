@@ -1,0 +1,9 @@
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\10. resctangulo\10. resctangulo\bin\Debug\_10.resctangulo.exe.config
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\10. resctangulo\10. resctangulo\bin\Debug\_10.resctangulo.exe
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\10. resctangulo\10. resctangulo\bin\Debug\_10.resctangulo.pdb
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\10. resctangulo\10. resctangulo\obj\Debug\10. resctangulo.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\10. resctangulo\10. resctangulo\obj\Debug\_10.resctangulo.exe
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\10. resctangulo\10. resctangulo\obj\Debug\_10.resctangulo.pdb
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\10_resctangulo\10. resctangulo\bin\Debug\_10.resctangulo.exe.config
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\10_resctangulo\10. resctangulo\obj\Debug\_10.resctangulo.exe
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\10_resctangulo\10. resctangulo\obj\Debug\_10.resctangulo.pdb

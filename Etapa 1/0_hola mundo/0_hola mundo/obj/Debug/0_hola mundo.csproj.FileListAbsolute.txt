@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa0\0_hola mundo\0_hola mundo\bin\Debug\0_hola mundo.exe.config
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa0\0_hola mundo\0_hola mundo\bin\Debug\0_hola mundo.exe
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa0\0_hola mundo\0_hola mundo\bin\Debug\0_hola mundo.pdb
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa0\0_hola mundo\0_hola mundo\obj\Debug\0_hola mundo.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa0\0_hola mundo\0_hola mundo\obj\Debug\0_hola mundo.exe
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa0\0_hola mundo\0_hola mundo\obj\Debug\0_hola mundo.pdb

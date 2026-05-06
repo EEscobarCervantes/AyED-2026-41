@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa1\5_mimultiplicacion\5_mimultiplicacion\bin\Debug\5_mimultiplicacion.exe.config
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa1\5_mimultiplicacion\5_mimultiplicacion\obj\Debug\5_mimultiplicacion.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa1\5_mimultiplicacion\5_mimultiplicacion\bin\Debug\5_mimultiplicacion.exe
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa1\5_mimultiplicacion\5_mimultiplicacion\bin\Debug\5_mimultiplicacion.pdb
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa1\5_mimultiplicacion\5_mimultiplicacion\obj\Debug\5_mimultiplicacion.exe
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa1\5_mimultiplicacion\5_mimultiplicacion\obj\Debug\5_mimultiplicacion.pdb

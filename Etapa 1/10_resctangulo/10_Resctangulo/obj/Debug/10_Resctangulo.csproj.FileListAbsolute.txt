@@ -1,0 +1,2 @@
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\10_Resctangulo\10_Resctangulo\bin\Debug\10_Resctangulo.exe.config
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\10_Resctangulo\10_Resctangulo\obj\Debug\10_Resctangulo.csprojResolveAssemblyReference.cache

@@ -10,10 +10,14 @@ namespace _14_HastaQueSi
     {
         static void Main(string[] args)
         {
-            Console.Write("¿desea terminar si? ");
+            Console.Write("¿desea terminar el programa? ");
             string respuesta = Console.ReadLine();
-
-
+            while (respuesta == "SI")
+            {
+                Console.Write("¿desea terminar el programa? ");
+                respuesta = Console.ReadLine();
+            }
+            Console.ReadKey();
         }
     }
 }

@@ -1,0 +1,2 @@
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\15_NombreCompleto\15_NombreCompleto\bin\Debug\15_NombreCompleto.exe.config
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa1\15_NombreCompleto\15_NombreCompleto\bin\Debug\15_NombreCompleto.exe.config

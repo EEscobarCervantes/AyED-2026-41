@@ -10,29 +10,44 @@ namespace _17_MiPrimerMenu
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("BIENVENIDOS");
-            Console.WriteLine("-- Menu de restaurante --");
             int opcion = 0;
-            Console.WriteLine("opcion 1");
-            Console.WriteLine("opcion 2");
-            Console.WriteLine("opcion 3");
-            switch (opcion)
+            while (opcion != 4)
             {
-                case 1:
-                    Console.Write("haz seleccionado la opcion 1, ¡increible!");
-                    break;
-                case 2:
-                    Console.Write("haz seleciionado la opcion 2, ¡increible!");
-                    break;
-                case 3:
-                    Console.Write("haz seleccionado la opcion 3, ¡increible!");
-                    break;
+                Console.WriteLine("¡BIENVENIDOS!");
+                Console.WriteLine("-- Menu de restaurante --");
+                Console.WriteLine("opcion 1");
+                Console.WriteLine("opcion 2");
+                Console.WriteLine("opcion 3");
+                Console.WriteLine("---Salir---");
+                Console.Write("selecciona una opcion: ");
+                opcion = int.Parse(Console.ReadLine());
 
+                switch (opcion)
+                {
+                    case 1:
+                        Console.WriteLine("has seleccionado la opcion 1, ¡increíble!");
+                        break;
+                    case 2:
+                        Console.WriteLine("no esta disponible");
+                        break;
+                    case 3:
+                        Console.WriteLine("has seleccionado la opcion 3, ¡increíble!");
+                        break;
+                    case 4:
+                        Console.WriteLine("Saliendo del programa");
+                        break;
+                    default:
+                        Console.WriteLine("Opcion no valida");
+                        break;
+                }
+
+                if (opcion != 4)
+                {
+                    Console.WriteLine("Presione cualquier tecla para volver al menú");
+                }
+                Console.ReadKey();
+        
             }
-
-            Console.ReadKey();
-
-
         }
     }
 }

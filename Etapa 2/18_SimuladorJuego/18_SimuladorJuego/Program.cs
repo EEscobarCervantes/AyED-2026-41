@@ -25,7 +25,7 @@ namespace _18_SimuladorJuego
 
             while (vida > 0 && dias <= 10 && jugando)
             {
-                Console.WriteLine($"\n--- DÍA {dias} ---");
+                Console.WriteLine($"\n----- DÍA {dias} -----");
                 Console.WriteLine($"Vida: {vida} | Hambre: {hambre} | Comida: {comidaCocida} cocida");
 
                 Console.WriteLine("1. Buscar comida\n2. Explorar\n3. Construir refugio\n4. Encender fogata\n5. Cocinar\n6. Comer\n7. Descansar\n8. Salir");
@@ -130,6 +130,8 @@ namespace _18_SimuladorJuego
             if (vida <= 0) Console.WriteLine("Game Over. Moriste.");
             else
             if (dias > 10) Console.WriteLine("¡Ganaste! Sobreviviste 10 días.");
+
+            Console.ReadKey();
         }
     }
 }

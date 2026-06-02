@@ -4,3 +4,6 @@ C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa1\5_mimultiplic
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa1\5_mimultiplicacion\5_mimultiplicacion\bin\Debug\5_mimultiplicacion.pdb
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa1\5_mimultiplicacion\5_mimultiplicacion\obj\Debug\5_mimultiplicacion.exe
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa1\5_mimultiplicacion\5_mimultiplicacion\obj\Debug\5_mimultiplicacion.pdb
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 1\5_MiMultiplicacion\5_mimultiplicacion\bin\Debug\5_mimultiplicacion.exe.config
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 1\5_MiMultiplicacion\5_mimultiplicacion\obj\Debug\5_mimultiplicacion.exe
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 1\5_MiMultiplicacion\5_mimultiplicacion\obj\Debug\5_mimultiplicacion.pdb

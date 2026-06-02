@@ -21,7 +21,7 @@ namespace _0_MayorDeEdad
             {
                 Console.WriteLine("es menor de edad");
             }
-            Console.ReadKey();
+            Console.ReadKey(); 
         }
     }
 }

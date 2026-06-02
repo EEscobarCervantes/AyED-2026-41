@@ -14,7 +14,7 @@ namespace _7_resto
             double num2;
             double resultado;
             Console.Write("ingrese un numero. ");
-            num1=double.Parse(Console.ReadLine
+            num1 = double.Parse(Console.ReadLine());
             Console.ReadKey();
 
         }

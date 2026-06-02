@@ -7,3 +7,6 @@ C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\8_DimensionDeEsfera\8_Dime
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa1\8_DimensionDeEsfera\8_DimensionDeEsfera\bin\Debug\8_DimensionDeEsfera.exe.config
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa1\8_DimensionDeEsfera\8_DimensionDeEsfera\obj\Debug\8_DimensionDeEsfera.exe
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa1\8_DimensionDeEsfera\8_DimensionDeEsfera\obj\Debug\8_DimensionDeEsfera.pdb
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 1\8_DimensionDeEsfera\8_DimensionDeEsfera\bin\Debug\8_DimensionDeEsfera.exe.config
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 1\8_DimensionDeEsfera\8_DimensionDeEsfera\obj\Debug\8_DimensionDeEsfera.exe
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 1\8_DimensionDeEsfera\8_DimensionDeEsfera\obj\Debug\8_DimensionDeEsfera.pdb

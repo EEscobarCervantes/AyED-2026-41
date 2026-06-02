@@ -4,3 +4,6 @@ C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\3_MiSuma\3_MiSuma\bin\Debu
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\3_MiSuma\3_MiSuma\bin\Debug\3_MiSuma.pdb
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\3_MiSuma\3_MiSuma\obj\Debug\3_MiSuma.exe
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\3_MiSuma\3_MiSuma\obj\Debug\3_MiSuma.pdb
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 1\3_MiSuma\3_MiSuma\bin\Debug\3_MiSuma.exe.config
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 1\3_MiSuma\3_MiSuma\obj\Debug\3_MiSuma.exe
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 1\3_MiSuma\3_MiSuma\obj\Debug\3_MiSuma.pdb

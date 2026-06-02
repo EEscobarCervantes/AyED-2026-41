@@ -7,3 +7,6 @@ C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\9_CelciusFahrenheit\9_Celc
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa1\9_CelciusFahrenheit\9_CelciusFahrenheit\bin\Debug\9_CelciusFahrenheit.exe.config
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa1\9_CelciusFahrenheit\9_CelciusFahrenheit\obj\Debug\9_CelciusFahrenheit.exe
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa1\9_CelciusFahrenheit\9_CelciusFahrenheit\obj\Debug\9_CelciusFahrenheit.pdb
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 1\9_CelciusFahrenheit\9_CelciusFahrenheit\bin\Debug\9_CelciusFahrenheit.exe.config
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 1\9_CelciusFahrenheit\9_CelciusFahrenheit\obj\Debug\9_CelciusFahrenheit.exe
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 1\9_CelciusFahrenheit\9_CelciusFahrenheit\obj\Debug\9_CelciusFahrenheit.pdb

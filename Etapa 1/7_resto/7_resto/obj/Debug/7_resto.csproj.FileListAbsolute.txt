@@ -1,1 +1,2 @@
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa1\7_resto\7_resto\bin\Debug\7_resto.exe.config
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 1\7_Resto\7_resto\bin\Debug\7_resto.exe.config

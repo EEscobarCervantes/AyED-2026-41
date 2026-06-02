@@ -4,3 +4,6 @@ C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\16_WhileYWhi
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\16_WhileYWhile\16_WhileYWhile\obj\Debug\16_WhileYWhile.csprojResolveAssemblyReference.cache
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\16_WhileYWhile\16_WhileYWhile\obj\Debug\16_WhileYWhile.exe
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\16_WhileYWhile\16_WhileYWhile\obj\Debug\16_WhileYWhile.pdb
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 2\16_WhileYWhile\16_WhileYWhile\bin\Debug\16_WhileYWhile.exe.config
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 2\16_WhileYWhile\16_WhileYWhile\obj\Debug\16_WhileYWhile.exe
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 2\16_WhileYWhile\16_WhileYWhile\obj\Debug\16_WhileYWhile.pdb

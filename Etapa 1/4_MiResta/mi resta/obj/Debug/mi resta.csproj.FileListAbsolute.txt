@@ -3,3 +3,6 @@ C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\mi resta\mi resta\bin\Debu
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\mi resta\mi resta\bin\Debug\mi resta.pdb
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\mi resta\mi resta\obj\Debug\mi resta.exe
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\mi resta\mi resta\obj\Debug\mi resta.pdb
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 1\4_MiResta\mi resta\bin\Debug\mi resta.exe.config
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 1\4_MiResta\mi resta\obj\Debug\mi resta.exe
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 1\4_MiResta\mi resta\obj\Debug\mi resta.pdb

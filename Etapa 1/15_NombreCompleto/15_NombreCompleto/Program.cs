@@ -11,7 +11,11 @@ namespace _15_NombreCompleto
         static void Main(string[] args)
         {
             Console.Write("escribir nombre: ");
-            string nombre
+            string nombre = Console.ReadLine();
+            Console.Write("escribe apellido: ");
+            string apellido = Console.ReadLine();
+            Console.Write("su nombre completo es " + nombre + " "  + apellido);
+            Console.ReadKey();
 
         }
     }

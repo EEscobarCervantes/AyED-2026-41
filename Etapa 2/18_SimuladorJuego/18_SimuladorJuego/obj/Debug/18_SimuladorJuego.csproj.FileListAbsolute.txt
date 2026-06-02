@@ -4,3 +4,6 @@ C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\18_Simulador
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\18_SimuladorJuego\18_SimuladorJuego\obj\Debug\18_SimuladorJuego.csprojResolveAssemblyReference.cache
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\18_SimuladorJuego\18_SimuladorJuego\obj\Debug\18_SimuladorJuego.exe
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\18_SimuladorJuego\18_SimuladorJuego\obj\Debug\18_SimuladorJuego.pdb
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 2\18_SimuladorJuego\18_SimuladorJuego\bin\Debug\18_SimuladorJuego.exe.config
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 2\18_SimuladorJuego\18_SimuladorJuego\obj\Debug\18_SimuladorJuego.exe
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 2\18_SimuladorJuego\18_SimuladorJuego\obj\Debug\18_SimuladorJuego.pdb

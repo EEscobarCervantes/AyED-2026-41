@@ -3,3 +3,6 @@ C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\2_ParImpar\2
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\2_ParImpar\2_ParImpar\bin\Debug\2_ParImpar.pdb
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\2_ParImpar\2_ParImpar\obj\Debug\2_ParImpar.exe
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\2_ParImpar\2_ParImpar\obj\Debug\2_ParImpar.pdb
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 2\2_ParImpar\2_ParImpar\bin\Debug\2_ParImpar.exe.config
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 2\2_ParImpar\2_ParImpar\obj\Debug\2_ParImpar.exe
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 2\2_ParImpar\2_ParImpar\obj\Debug\2_ParImpar.pdb

@@ -1,0 +1,7 @@
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 3\0_\0_\bin\Debug\0_.exe.config
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 3\0_CargandoEdades\0_\bin\Debug\0_.exe.config
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 3\0_CargandoEdades\0_\bin\Debug\0_.exe
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 3\0_CargandoEdades\0_\bin\Debug\0_.pdb
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 3\0_CargandoEdades\0_\obj\Debug\0_.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 3\0_CargandoEdades\0_\obj\Debug\0_.exe
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 3\0_CargandoEdades\0_\obj\Debug\0_.pdb

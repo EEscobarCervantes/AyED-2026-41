@@ -7,3 +7,6 @@ C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\12_MiPromedio\12_MiPromedi
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 1\12_MiPromedio\12_MiPromedio\bin\Debug\12_MiPromedio.exe.config
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 1\12_MiPromedio\12_MiPromedio\obj\Debug\12_MiPromedio.exe
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 1\12_MiPromedio\12_MiPromedio\obj\Debug\12_MiPromedio.pdb
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 1\12_MiPromedio\12_MiPromedio\bin\Debug\12_MiPromedio.exe.config
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 1\12_MiPromedio\12_MiPromedio\obj\Debug\12_MiPromedio.exe
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 1\12_MiPromedio\12_MiPromedio\obj\Debug\12_MiPromedio.pdb

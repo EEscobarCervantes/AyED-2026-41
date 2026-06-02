@@ -7,3 +7,6 @@ C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\10. resctangulo\10. rescta
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\10_resctangulo\10. resctangulo\bin\Debug\_10.resctangulo.exe.config
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\10_resctangulo\10. resctangulo\obj\Debug\_10.resctangulo.exe
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\10_resctangulo\10. resctangulo\obj\Debug\_10.resctangulo.pdb
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 1\10_Resctangulo\10. resctangulo\bin\Debug\_10.resctangulo.exe.config
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 1\10_Resctangulo\10. resctangulo\obj\Debug\_10.resctangulo.exe
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 1\10_Resctangulo\10. resctangulo\obj\Debug\_10.resctangulo.pdb

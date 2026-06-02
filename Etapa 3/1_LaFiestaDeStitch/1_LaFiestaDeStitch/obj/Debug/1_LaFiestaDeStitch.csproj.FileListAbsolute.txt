@@ -1,0 +1,2 @@
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 3\0_CargandoEdades\0_\1_LaFiestaDeStitch\1_LaFiestaDeStitch\bin\Debug\1_LaFiestaDeStitch.exe.config
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 3\1_LaFiestaDeStitch\1_LaFiestaDeStitch\bin\Debug\1_LaFiestaDeStitch.exe.config

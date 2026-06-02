@@ -4,3 +4,6 @@ C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\17_MiPrimerM
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\17_MiPrimerMenu\17_MiPrimerMenu\obj\Debug\17_MiPrimerMenu.csprojResolveAssemblyReference.cache
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\17_MiPrimerMenu\17_MiPrimerMenu\obj\Debug\17_MiPrimerMenu.exe
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\17_MiPrimerMenu\17_MiPrimerMenu\obj\Debug\17_MiPrimerMenu.pdb
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 2\17_MiPrimerMenu\17_MiPrimerMenu\bin\Debug\17_MiPrimerMenu.exe.config
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 2\17_MiPrimerMenu\17_MiPrimerMenu\obj\Debug\17_MiPrimerMenu.exe
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 2\17_MiPrimerMenu\17_MiPrimerMenu\obj\Debug\17_MiPrimerMenu.pdb

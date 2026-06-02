@@ -1,1 +1,2 @@
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\Su edad\Su edad\bin\Debug\Su edad.exe.config
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 1\2_SuEdad\Su edad\bin\Debug\Su edad.exe.config

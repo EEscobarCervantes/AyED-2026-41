@@ -1,1 +1,2 @@
 C:\Users\Lab AyED\Documents\3_EscobarCervantes\AyED-2026-41\Etapa 2\15_Vuelto\15_Vuelto\bin\Debug\15_Vuelto.exe.config
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 2\15_Vuelto\15_Vuelto\bin\Debug\15_Vuelto.exe.config

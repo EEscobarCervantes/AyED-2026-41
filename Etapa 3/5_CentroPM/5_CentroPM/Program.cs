@@ -16,7 +16,9 @@ namespace _5_CentroPM
             int opcion = 0;
             while (opcion != 13)
             {
-                Console.WriteLine("----------CENTRO POKÉ-REMEDIO----------");
+                Console.WriteLine("----------------------------------------");
+                Console.WriteLine("|           CENTRO POKÉ-REMEDIO        |");
+                Console.WriteLine("----------------------------------------");
                 Console.WriteLine("1. Registrar un  pokemon");
                 Console.WriteLine("2. Mostrar vidas");
                 Console.WriteLine("3. Curar un pokemon");
@@ -43,9 +45,8 @@ namespace _5_CentroPM
 
                             while (true)
                             {
-                                Console.Write("Vida (0–100): ");
+                                Console.Write("ingrese la vida del pokemon (0-100): ");
                                 vida = int.Parse(Console.ReadLine());
-
                                 if (vida >= 0 && vida <= 100)
                                     break;
                             }
@@ -53,11 +54,11 @@ namespace _5_CentroPM
                             vidasPokemones[cantidad] = vida;
                             cantidad++;
 
-                            Console.WriteLine("Registrado.");
+                            Console.WriteLine("pokemon registrado correctamente en la posicion "+ cantidad);
                         }
                         else
                         {
-                            Console.WriteLine("Centro lleno.");
+                            Console.WriteLine("No se puede registrar pokemones. El centro esta lleno.");
                         }
                         break;
 
@@ -73,12 +74,12 @@ namespace _5_CentroPM
 
                     case 3:
 
-                        Console.Write("Posición: ");
+                        Console.Write("ingrese la posición del pokemon a curar: ");
                         int pos = int.Parse(Console.ReadLine());
 
                         if (pos >= 0 && pos < cantidad)
                         {
-                            Console.Write("Curación: ");
+                            Console.Write("ingrese puntos de vida a curar: ");
                             int cura = int.Parse(Console.ReadLine());
 
                             vidasPokemones[pos] += cura;
@@ -91,12 +92,12 @@ namespace _5_CentroPM
 
                     case 4:
 
-                        Console.Write("Posición: ");
+                        Console.Write("ingrese la posición del pokemon atacado: ");
                         pos = int.Parse(Console.ReadLine());
 
                         if (pos >= 0 && pos < cantidad)
                         {
-                            Console.Write("Daño: ");
+                            Console.Write("ingrese daño recibido: ");
                             int daño = int.Parse(Console.ReadLine());
 
                             vidasPokemones[pos] -= daño;
@@ -108,16 +109,15 @@ namespace _5_CentroPM
 
                     case 5:
 
-                        Console.Write("Curación general: ");
+                        Console.Write("ingrese puntos de curación general: ");
                         int c = int.Parse(Console.ReadLine());
-
+                      
                         for (int i = 0; i < cantidad; i++)
-                        {
+                        { 
                             vidasPokemones[i] += c;
-
                             if (vidasPokemones[i] > 100)
                                 vidasPokemones[i] = 100;
-                        }
+                                }
                         break;
 
                     case 6:
@@ -127,13 +127,13 @@ namespace _5_CentroPM
                         {
                             if (vidasPokemones[i] == 0)
                             {
-                                Console.WriteLine("Posición " + i);
+                                Console.WriteLine("Pokemones en posicion: " + i);
 
                                 debilitados++;
                             }
                         }
 
-                        Console.WriteLine("Total: " + debilitados);
+                        Console.WriteLine("Cantidad total de debilitados: " + debilitados);
 
                         break;
 
@@ -147,7 +147,7 @@ namespace _5_CentroPM
                                 mayor = vidasPokemones[i];
                         }
 
-                        Console.WriteLine("Mayor: " + mayor);
+                        Console.WriteLine("El pokemon con mayor vida esta en la posicion: " + mayor);
 
                         break;
 
@@ -160,7 +160,7 @@ namespace _5_CentroPM
                             if (vidasPokemones[i] < menor)
                                 menor = vidasPokemones[i];
                         }
-                        Console.WriteLine("Menor: " + menor);
+                        Console.WriteLine("El pokemon con menor vida esta en la posicion: " + menor);
                         break;
         
                     case 9:
@@ -174,15 +174,53 @@ namespace _5_CentroPM
                         break;
 
                     case 10:
+                        for (int i= 0; i < cantidad - 1; i++)
+                        {
+                            for (int j=0; j < cantidad - 1; j++)
+                            {
+                                if (vidasPokemones[j]> vidasPokemones[j + 1])
+                                {
+                                    int aux = vidasPokemones[j];
+                                    vidasPokemones[j] = vidasPokemones[j + 1];
+                                    vidasPokemones[j + 1] = aux;
+                                }
+                            }
+                        }
+                        Console.WriteLine("vidas ordenadas de menor a mayor: ");
+                        for (int i= 0; i< cantidad; i++)
+                        {
+                            Console.WriteLine(vidasPokemones[i]);
+                        }
+                        break;
+
                     case 11:
-                        Console.WriteLine("Ordenamiento.");
+                        for (int i = 0; i < cantidad - 1; i++)
+                        {
+                            for (int j = 0; j < cantidad - 1; j++)
+                            {
+                                if (vidasPokemones[j] < vidasPokemones[j + 1])
+                                {
+                                    int aux = vidasPokemones[j];
+                                    vidasPokemones[j] = vidasPokemones[j + 1];
+                                    vidasPokemones[j + 1] = aux;
+                                }
+                            }
+                        }
+
+                        Console.WriteLine("Vidas ordenadas de mayor a menor:");
+
+                        for (int i = 0; i < cantidad; i++)
+                        {
+                            Console.WriteLine(vidasPokemones[i]);
+                        }
+
                         break;
 
                     case 12:
 
-                        Random r = new Random();
-
-                        int ataque =r.Next(5, 26);
+                        Random random = new Random();
+                        Console.WriteLine("¡Un pokemon salvaje ataco al equipo!");
+                        int ataque =random.Next(5, 26);
 
                         for (int i = 0; i < cantidad; i++)
                         {
@@ -190,7 +228,8 @@ namespace _5_CentroPM
                             if (vidasPokemones[i] < 0)
                                 vidasPokemones[i] = 0;
                         }
-                        Console.WriteLine("Daño: " + ataque);
+                        Console.WriteLine("Daño recibido por todos: " + ataque);
+                        Console.WriteLine("Las vidas fueron actualizadas.");
                         break;
 
                     case 13:

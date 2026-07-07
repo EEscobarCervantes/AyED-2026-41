@@ -36,7 +36,7 @@ namespace Argentinian_Truck_Simulator
                         if (cantidad < 25)
                         {
                             bool valido = false;
-                            encargos[cantidad, 0] = "";
+                            encargos[cantidad, 0] = " ";
 
                             while (!valido)
                             {

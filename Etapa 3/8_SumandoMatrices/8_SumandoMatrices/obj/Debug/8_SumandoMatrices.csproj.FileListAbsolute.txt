@@ -1,0 +1,5 @@
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 3\8_SumandoMatrices\8_SumandoMatrices\bin\Debug\8_SumandoMatrices.exe.config
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 3\8_SumandoMatrices\8_SumandoMatrices\bin\Debug\8_SumandoMatrices.exe
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 3\8_SumandoMatrices\8_SumandoMatrices\bin\Debug\8_SumandoMatrices.pdb
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 3\8_SumandoMatrices\8_SumandoMatrices\obj\Debug\8_SumandoMatrices.exe
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 3\8_SumandoMatrices\8_SumandoMatrices\obj\Debug\8_SumandoMatrices.pdb

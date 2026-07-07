@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 3\3_HotSale\3_HotSale\bin\Debug\3_HotSale.exe.config
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 3\3_HotSale\3_HotSale\obj\Debug\3_HotSale.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 3\3_HotSale\3_HotSale\bin\Debug\3_HotSale.exe
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 3\3_HotSale\3_HotSale\bin\Debug\3_HotSale.pdb
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 3\3_HotSale\3_HotSale\obj\Debug\3_HotSale.exe
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 3\3_HotSale\3_HotSale\obj\Debug\3_HotSale.pdb

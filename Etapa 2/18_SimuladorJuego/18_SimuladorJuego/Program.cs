@@ -12,126 +12,182 @@ namespace _18_SimuladorJuego
         {
             int vida = 10;
             int hambre = 10;
-            int dias = 1;
+            int dia = 1;
+
             int comidaCruda = 0;
             int comidaCocida = 0;
-            bool tieneRefugio = false;
-            bool tieneFogata = false;
-            bool jugando = true;
 
-            Random azar = new Random();
+            bool refugio = false;
+            bool fogata = false;
 
-            Console.WriteLine("¡Sobrevive en la Isla!");
+            Random rand = new Random();
 
-            while (vida > 0 && dias <= 10 && jugando)
+            int opcion = 0;
+
+            while (opcion != 8 && vida > 0 && dia <= 10)
             {
-                Console.WriteLine($"\n----- DÍA {dias} -----");
-                Console.WriteLine($"Vida: {vida} | Hambre: {hambre} | Comida: {comidaCocida} cocida");
+                Console.WriteLine("---------SUPERVIVENCIA EN LA ISLA----------");
+                Console.WriteLine("Dia: " + dia);
+                Console.WriteLine("Vida: " + vida + " | Hambre: " + hambre);
+                Console.WriteLine("Cruda: " + comidaCruda + " | Cocida: " + comidaCocida);
+                Console.WriteLine("Refugio: " + refugio + " | Fogata: " + fogata);
 
-                Console.WriteLine("1. Buscar comida\n2. Explorar\n3. Construir refugio\n4. Encender fogata\n5. Cocinar\n6. Comer\n7. Descansar\n8. Salir");
-                Console.Write("Acción: ");
-                string opcion = Console.ReadLine();
-                bool pasoElDia = false;
+                Console.WriteLine("\n1. Buscar comida");
+                Console.WriteLine("2. Explorar la isla");
+                Console.WriteLine("3. Construir refugio");
+                Console.WriteLine("4. Encender fogata");
+                Console.WriteLine("5. Cocinar comida");
+                Console.WriteLine("6. Comer comida cocida");
+                Console.WriteLine("7. Descansar");
+                Console.WriteLine("8. Salir");
+
+                Console.Write("Opcion: ");
+                opcion = int.Parse(Console.ReadLine());
+
+                Console.WriteLine();
 
                 switch (opcion)
                 {
-                    case "1":
-                        if (azar.Next(1, 101) <= 60)
+                    case 1:
+                        if (rand.Next(1, 101) <= 60)
                         {
                             comidaCruda += 2;
-                            Console.WriteLine("Encontraste comida cruda.");
+                            Console.WriteLine("Encontraste comida cruda!");
                         }
                         else
                         {
                             Console.WriteLine("No encontraste nada.");
                         }
+
                         vida -= 1;
-                        pasoElDia = true;
                         break;
 
-                    case "2":
-                        int suerte = azar.Next(1, 101);
-                        if (suerte <= 50) Console.WriteLine("Encontraste materiales.");
-                        else if (suerte > 80)
+                    case 2:
+                        int r = rand.Next(1, 101);
+
+                        if (r <= 50)
                         {
+                            Console.WriteLine("Encontraste materiales utiles.");
+                            refugio = true; 
+                        }
+                        else if (r <= 80)
+                        {
+                            Console.WriteLine("No encontraste nada.");
+                        }
+                        else
+                        {
+                            Console.WriteLine("Sufriste un accidente.");
                             vida -= 2;
-                            Console.WriteLine("¡Accidente! Perdiste vida.");
                         }
-                        pasoElDia = true;
                         break;
 
-                    case "3":
-                        if (!tieneRefugio)
+                    case 3:
+                        if (!refugio)
                         {
-                            tieneRefugio = true;
-                            Console.WriteLine("Refugio construido.");
-                            pasoElDia = true;
+                            refugio = true;
+                            Console.WriteLine("Construiste un refugio.");
                         }
-                        else Console.WriteLine("Ya tienes uno.");
-                        break;
-
-                    case "4":
-                        if (tieneRefugio)
+                        else
                         {
-                            tieneFogata = true;
-                            Console.WriteLine("Fogata encendida.");
-                            pasoElDia = true;
+                            Console.WriteLine("Ya tienes refugio.");
                         }
-                        else Console.WriteLine("Necesitas refugio.");
                         break;
 
-                    case "5":
-                        if (comidaCruda > 0 && tieneFogata)
+                    case 4:
+                        if (refugio)
                         {
-                            comidaCruda--; comidaCocida++;
-                            Console.WriteLine("Comida cocinada.");
-                            pasoElDia = true;
+                            fogata = true;
+                            Console.WriteLine("Encendiste la fogata.");
                         }
-                        else Console.WriteLine("Faltan recursos o fogata.");
+                        else
+                        {
+                            Console.WriteLine("Necesitas refugio para encenderla.");
+                        }
                         break;
 
-                    case "6":
+                    case 5:
+                        if (comidaCruda > 0 && fogata)
+                        {
+                            comidaCruda--;
+                            comidaCocida++;
+                            Console.WriteLine("Cocinaste comida.");
+                        }
+                        else
+                        {
+                            Console.WriteLine("No puedes cocinar (falta comida o fogata).");
+                        }
+                        break;
+
+                    case 6:
                         if (comidaCocida > 0)
                         {
                             comidaCocida--;
-                            hambre = Math.Min(hambre + 4, 10);
-                            Console.WriteLine("Comiste.");
-                            pasoElDia = true;
+                            hambre += 4;
+
+                            if (hambre > 10) hambre = 10;
+
+                            Console.WriteLine("Comiste comida cocida.");
                         }
-                        else Console.WriteLine("No tienes comida cocida.");
+                        else
+                        {
+                            Console.WriteLine("No tienes comida cocida.");
+                        }
                         break;
 
-                    case "7":
-                        int recupera = tieneRefugio ? 3 : 1;
-                        vida = Math.Min(vida + recupera, 10);
-                        Console.WriteLine("Descansaste.");
-                        pasoElDia = true;
+                    case 7:
+                        if (refugio)
+                        {
+                            vida += 3;
+                            Console.WriteLine("Descansaste en el refugio.");
+                        }
+                        else
+                        {
+                            vida += 1;
+                            Console.WriteLine("Descansaste sin refugio.");
+                        }
+
+                        if (vida > 10) vida = 10;
                         break;
 
-                    case "8":
-                        jugando = false;
+                    case 8:
+                        Console.WriteLine("Saliste del juego.");
                         break;
 
                     default:
-                        Console.WriteLine("Acción no válida.");
+                        Console.WriteLine("Opcion invalida.");
                         break;
-                    }
-                if (pasoElDia)
+                }
+
+                // avance del dia
+                if (opcion >= 1 && opcion <= 7)
                 {
-                    dias++;
+                    dia++;
                     hambre -= 2;
-                    if (hambre <= 0)
+
+                    if (hambre < 0)
                     {
                         hambre = 0;
+                    }
+
+                    if (hambre == 0)
+                    {
                         vida -= 2;
                     }
                 }
-            }
-            if (vida <= 0) Console.WriteLine("Game Over. Moriste.");
-            else
-            if (dias > 10) Console.WriteLine("¡Ganaste! Sobreviviste 10 días.");
 
-            Console.ReadKey();
-        }
+                if (vida <= 0)
+                {
+                    Console.WriteLine("\nPerdiste: te quedaste sin vida.");
+                }
+
+                if (dia > 10 && vida > 0)
+                {
+                    Console.WriteLine("\nGANASTE: sobreviviste 10 dias!");
+                }
+
+
+                Console.ReadKey();
+          }
+       }
     }
-}
+ }
